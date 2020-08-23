@@ -1,0 +1,17 @@
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\enes.akinci\Desktop\TestingExample-master\TestingExample\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\enes.akinci\Desktop\XUnitTesting\TestingExample\obj\Debug\netcoreapp3.1\Calculator.pdb
